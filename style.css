@@ -1,0 +1,45 @@
+*{
+    margin: auto;
+    padding: auto;
+    
+}
+
+body {
+    background-color: rgb(69, 69, 69);
+    font: 13pt Arial;
+}
+
+
+
+main {
+    background-color: white;
+    width: 500px;
+    padding: 20px;
+    margin: auto;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.529);
+}
+
+a:hover {
+    color: rgba(196, 240, 185, 0.411);
+    text-decoration: none;
+}
+
+.pag{
+    list-style: none;
+    padding: 10px;
+    background-color: rgb(3, 3, 3);
+    color: rgb(255, 255, 255);
+    text-align: center;
+    
+    
+}
+
+h1{
+    text-align: center;
+    margin: 1em;
+
+}
+
+
+
