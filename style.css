@@ -11,7 +11,7 @@ body {
 
 
 
-main {
+main{
     background-color: white;
     width: 500px;
     padding: 20px;
@@ -35,11 +35,15 @@ a:hover {
     
 }
 
-h1{
+h1, button{
     text-align: center;
     margin: 1em;
 
 }
 
+button{
+    
+    
+}
 
 
